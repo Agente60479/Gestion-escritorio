@@ -6,5 +6,4 @@ agregues a esta carpeta este programa y crear un acceso directo (Este acceso dir
 Al abrir el programa tendrás una pequeña interfaz que te preguntará qué programa deseas abrir, le pones el nombre del programa y lo abre.
  
  ## Cosas a tener en cuenta:
-    -Tiene que ser igual el nombre que introduces al que tiene el acceso directo.
     -Los nombres de los accesos directos no pueden tener espacios.
